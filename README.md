@@ -1,7 +1,9 @@
 # ngrok_script_git
 Script to download and install ngrok
 
-## Installing dependencies
+Extract zip file and do the following.
+
+## Installing dependencies: Only use this if not on another project
 `npm install`
 
 ## Running script
